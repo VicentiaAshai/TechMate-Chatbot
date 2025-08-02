@@ -47,3 +47,9 @@ Digital literacy is essential in today’s world. TechMate:
 
 ```bash
 python techmate.py
+
+
+
+
+Vicentia Ashai
+MSc Financial Technology
